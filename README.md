@@ -9,7 +9,9 @@
   📍Excel, 
   📍Machine learning,
   📍Data visualization.
+  
 👀 I’m interested in Data analysis and data visualization.
+
 💥Explore captivating projects showcasing the art of
    transforming raw data into actionable insights.
 
