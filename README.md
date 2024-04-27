@@ -3,11 +3,17 @@
 🏃🏼‍♀️Step into the world of data with me.
 
 🔥A passionate aspiring data analyst skilled in
+
   📍SQL, 
+  
   📍Power BI, 
+  
   📍Python, 
+  
   📍Excel, 
+  
   📍Machine learning,
+  
   📍Data visualization.
   
 👀 I’m interested in Data analysis and data visualization.
