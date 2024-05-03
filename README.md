@@ -7,10 +7,10 @@
   📍SQL, 
   
   📍Power BI, 
+
+  📍Advance Excel, 
   
   📍Python, 
-  
-  📍Excel, 
   
   📍Machine learning,
   
