@@ -3,20 +3,14 @@
 🏃🏼‍♀️Step into the world of data with me.
 
 🔥A passionate aspiring data analyst skilled in
-
   📍SQL, 
-  
   📍Power BI, 
-
   📍Advance Excel, 
-  
   📍Python, 
-  
   📍Machine learning,
-  
   📍Data visualization.
-  
-👀 I’m interested in Data analysis and data visualization.
+
+👀 I turn raw data into powerful stories and actionable insights.
 
 💥Explore captivating projects showcasing the art of
    transforming raw data into actionable insights.
