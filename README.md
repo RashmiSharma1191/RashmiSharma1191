@@ -1,5 +1,4 @@
-👋 Hi, I’m Rashmi Sharma
-
+👋 Hi, I’m Rashmi Sharma.
 🏃🏼‍♀️Step into the world of data with me.
 
 🔥A passionate aspiring data analyst skilled in
@@ -9,7 +8,6 @@
   📍Python, 
   📍Machine learning,
   📍Data visualization.
-
 👀 I turn raw data into powerful stories and actionable insights.
 
 💥Explore captivating projects showcasing the art of
