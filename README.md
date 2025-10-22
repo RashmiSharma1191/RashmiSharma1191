@@ -42,7 +42,7 @@ I turn raw data into powerful stories and actionable insights.
 
 🔹 [E-commerce Data Analysis (Python and SQL)](https://github.com/RashmiSharma1191/E-comm-Analysis-using-Python-and-Sql)
 
-🔹 [Mentorness Internship - Youtube Song Analysis](https://github.com/RashmiSharma1191/Mentorness)
+🔹 [Mentorness Internship - Youtube Song Analysis (SQL and Power BI)](https://github.com/RashmiSharma1191/Mentorness)
 
 🔹 [Cognifyz Internship - Data visualization (Excel)](https://github.com/RashmiSharma1191/Cognifyz-Internship-Excel-Project)
 
