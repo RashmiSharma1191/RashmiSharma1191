@@ -1,24 +1,15 @@
-👋 Hi, I’m Rashmi Sharma.
-🏃🏼‍♀️Step into the world of data with me.
+👋 Hi, I’m Rashmi Sharma
 
-🔥A passionate aspiring data analyst skilled in
+🏃‍♀️ Step into the world of data-driven insights with me.
 
-  📍SQL, 
-  
-  📍Power BI, 
-  
-  📍Advance Excel, 
-  
-  📍Python, 
-  
-  📍Machine learning,
-  
-  📍Data visualization.
-  
-I turn raw data into powerful stories and actionable insights.
+I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into clear business stories.
 
-💥Explore captivating projects showcasing the art of
-   transforming raw data into actionable insights.
+💡 My expertise lies in:
+- Data cleaning, analysis, and visualization
+- Dashboard creation and performance tracking
+- Data-driven storytelling and reporting
+
+📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning
 
 ## 🛠️ Tools & Technologies
 
