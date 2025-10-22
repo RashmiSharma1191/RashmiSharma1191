@@ -29,7 +29,6 @@ I turn raw data into powerful stories and actionable insights.
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  
 </p>
 
 ## 📊 Featured Projects
