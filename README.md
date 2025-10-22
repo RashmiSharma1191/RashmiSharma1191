@@ -5,9 +5,10 @@
 I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into clear business stories.
 
 💡 My expertise lies in:
-- Data cleaning, analysis, and visualization
-- Dashboard creation and performance tracking
-- Data-driven storytelling and reporting
+- Data cleaning, analysis, and visualization,
+- Exploratory data analysis,
+- Dashboard creation and performance tracking,
+- Data-driven storytelling and reporting.
 
 📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning
 
