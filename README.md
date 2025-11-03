@@ -39,6 +39,14 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 
 🔹 [Call-Center-Analysis (Power BI)](https://github.com/RashmiSharma1191/Call-Center-Analysis---Power-BI)
 
+## 👩‍💻 Developed By  
+**Rashmi Sharma**  
+*SEO Executive | Data Analyst*  
+
+📧 [Mail ID](mailto:rashusharma007@gmail.com)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rashmi-sharma-11nv91)
+
 
 
 <!---
