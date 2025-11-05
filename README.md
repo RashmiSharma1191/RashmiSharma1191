@@ -25,6 +25,8 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 
 ## 📊 Featured Projects
 
+🔹 [Meta-Ads-Campaign-Performance-Analysis (Power BI)](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis)  
+
 🔹 [Credit Card Sales (Power BI)](https://github.com/RashmiSharma1191/Credit-Card-Sales--Power-BI)  
 
 🔹 [Netflix-Recommendation-Engine (Python+ML)](https://github.com/RashmiSharma1191/Netflix-Recommendation-Engine)
