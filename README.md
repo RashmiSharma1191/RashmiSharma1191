@@ -2,7 +2,7 @@
 
 🏃‍♀️ Step into the world of data-driven insights with me.
 
-I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into actionable business insights. My journey started in digital marketing and SEO, where I worked on campaigns, keyword research, competitor analysis, and performance tracking — this sparked my interest in using data to make informed decisions and drive results.
+I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into actionable business insights. My journey started in digital marketing, where I worked on Social media campaigns, SEO analysis, keyword research & analysis, competitor analysis, Google analytics and performance analysis — this sparked my interest in using data to make informed decisions and drive results.
 
 💡 My expertise lies in:
 - Data cleaning, analysis, and visualization,
@@ -10,7 +10,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 - Dashboard creation and performance tracking,
 - Data-driven storytelling and reporting.
 
-📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning · Digital Marketing
+📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning · Digital Marketing ·SEO analysis
 
 ## 🛠️ Tools & Technologies
 
