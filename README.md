@@ -43,7 +43,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 
 ## 👩‍💻 Developed By  
 **Rashmi Sharma**  
-*SEO Executive | Data Analyst*  
+*SEO Executive | Digital Marketing | Data Analyst*  
 
 📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
