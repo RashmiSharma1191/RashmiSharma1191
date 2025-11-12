@@ -2,7 +2,7 @@
 
 🏃‍♀️ Step into the world of data-driven insights with me.
 
-I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into clear business stories.
+I’m a data analytics professional with a passion for uncovering trends, optimizing strategies, and translating complex data into actionable business insights. My journey started in digital marketing and SEO, where I worked on campaigns, keyword research, competitor analysis, and performance tracking — this sparked my interest in using data to make informed decisions and drive results.
 
 💡 My expertise lies in:
 - Data cleaning, analysis, and visualization,
@@ -10,7 +10,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 - Dashboard creation and performance tracking,
 - Data-driven storytelling and reporting.
 
-📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning
+📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning · Digital Marketing
 
 ## 🛠️ Tools & Technologies
 
@@ -41,9 +41,11 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 
 🔹 [Call-Center-Analysis (Power BI)](https://github.com/RashmiSharma1191/Call-Center-Analysis---Power-BI)
 
+🔹 [SEO Portfolio Website (HTML/CSS/VS Code)](https://github.com/RashmiSharma1191/DataAnalyst-Portfolio)
+
 ## 👩‍💻 Developed By  
 **Rashmi Sharma**  
-*SEO Executive | Digital Marketing | Data Analyst*  
+*Data Analyst | SEO Executive | Digital Marketing*  
 
 📧 [Mail ID](mailto:rashusharma007@gmail.com)
 
