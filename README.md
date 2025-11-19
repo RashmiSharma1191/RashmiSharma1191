@@ -24,6 +24,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 </p>
 
 ## 📊 Featured Projects
+🔹 [Ferns-and-Petals-Sales-Analysis (Excel, Power Query, Power Pivot)](https://github.com/RashmiSharma1191/Ferns-and-Petals-Sales-Analysis)
 
 🔹 [Meta-Ads-Campaign-Performance-Analysis (Power BI)](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis)  
 
