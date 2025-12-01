@@ -38,8 +38,6 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 
 🔹 [Mentorness Internship - Youtube Song Analysis (SQL and Power BI)](https://github.com/RashmiSharma1191/Mentorness)
 
-🔹 [Cognifyz Internship - Data visualization (Excel)](https://github.com/RashmiSharma1191/Cognifyz-Internship-Excel-Project)
-
 🔹 [Call-Center-Analysis (Power BI)](https://github.com/RashmiSharma1191/Call-Center-Analysis---Power-BI)
 
 🔹 [SEO Portfolio Website (HTML/CSS/VS Code)](https://github.com/RashmiSharma1191/Portfolio-Website-SEO-Optimization)
