@@ -24,6 +24,8 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 </p>
 
 ## 📊 Featured Projects
+🔹 [Inventory-Supply-Chain-Management-Analysis(Power BI, Power Query)](https://github.com/RashmiSharma1191/Inventory-and-Supply-Chain-Management-Analysis/blob/main/README.md)
+
 🔹 [Law-firm-Data-Analysis (Power query, DAX, Power BI)](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/README.md)
 
 🔹 [Ferns-and-Petals-Sales-Analysis (Excel, Power Query, Power Pivot)](https://github.com/RashmiSharma1191/Ferns-and-Petals-Sales-Analysis)
