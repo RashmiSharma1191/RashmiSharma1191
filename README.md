@@ -27,10 +27,12 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 🔹 [Inventory-Supply-Chain-Management-Analysis(Power BI, Power Query)](https://github.com/RashmiSharma1191/Inventory-and-Supply-Chain-Management-Analysis/blob/main/README.md)
 
 🔹 [Law-firm-Data-Analysis (Power query, DAX, Power BI)](https://github.com/RashmiSharma1191/-Law-Firm-Operational-Financial-Performance-Analysis/blob/main/README.md)
+  
+🔹 [Meta-Ads-Campaign-Performance-Analysis (Power BI)](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis)
+
+🔹 [SEO Portfolio Website (HTML/CSS/VS Code)](https://github.com/RashmiSharma1191/Portfolio-Website-SEO-Optimization)
 
 🔹 [Ferns-and-Petals-Sales-Analysis (Excel, Power Query, Power Pivot)](https://github.com/RashmiSharma1191/Ferns-and-Petals-Sales-Analysis)
-
-🔹 [Meta-Ads-Campaign-Performance-Analysis (Power BI)](https://github.com/RashmiSharma1191/Meta-Ads-Campaign-Performance-Analysis)  
 
 🔹 [Credit Card Sales (Power BI)](https://github.com/RashmiSharma1191/Credit-Card-Sales--Power-BI)  
 
@@ -43,8 +45,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 🔹 [Mentorness Internship - Youtube Song Analysis (SQL and Power BI)](https://github.com/RashmiSharma1191/Mentorness)
 
 🔹 [Call-Center-Analysis (Power BI)](https://github.com/RashmiSharma1191/Call-Center-Analysis---Power-BI)
-
-🔹 [SEO Portfolio Website (HTML/CSS/VS Code)](https://github.com/RashmiSharma1191/Portfolio-Website-SEO-Optimization)
+ 
 
 ## 👩‍💻 Developed By  
 **Rashmi Sharma**  
