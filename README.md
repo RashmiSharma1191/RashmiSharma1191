@@ -9,11 +9,14 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 - Exploratory data analysis,
 - Dashboard creation and performance tracking,
 - Data-driven storytelling and reporting.
+---
 
 📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning · Digital Marketing ·SEO analysis
+---
 
 ## 🔹 Live Website
 [🔗 View Portfolio Website](https://rashmisharma1191.github.io/DataAnalyst-Portfolio/)
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -25,6 +28,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
+---
 
 ## 📊 Featured Projects
 🔹 [Inventory-Supply-Chain-Management-Analysis(Power BI, Power Query)](https://github.com/RashmiSharma1191/Inventory-and-Supply-Chain-Management-Analysis/blob/main/README.md)
@@ -48,6 +52,7 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 🔹 [Mentorness Internship - Youtube Song Analysis (SQL and Power BI)](https://github.com/RashmiSharma1191/Mentorness)
 
 🔹 [Call-Center-Analysis (Power BI)](https://github.com/RashmiSharma1191/Call-Center-Analysis---Power-BI)
+ ---
  
 
 ## 👩‍💻 Developed By  
