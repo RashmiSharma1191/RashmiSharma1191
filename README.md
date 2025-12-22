@@ -12,10 +12,11 @@ I’m a data analytics professional with a passion for uncovering trends, optimi
 ---
 
 📊 Key Skills: SQL · Power BI · Advanced Excel · Python · Machine Learning · Digital Marketing ·SEO analysis
----
+
 
 ## 🔹 Live Website
 [🔗 View Portfolio Website](https://rashmisharma1191.github.io/DataAnalyst-Portfolio/)
+
 ---
 
 ## 🛠️ Tools & Technologies
